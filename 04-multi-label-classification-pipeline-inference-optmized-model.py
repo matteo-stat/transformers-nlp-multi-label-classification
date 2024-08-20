@@ -39,5 +39,4 @@ text_classifier = pipeline(
 
 # use pipeline
 single_prediction = text_classifier('put some text here')
-
 multiple_predictions = text_classifier(['put first text here', 'put second text here', '...'])
