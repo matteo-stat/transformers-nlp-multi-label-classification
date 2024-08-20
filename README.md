@@ -48,7 +48,7 @@ Before you dive into the scripts, here are a few important notes about the depen
 
 ### Note for PyTorch and NVIDIA GPUs
 
-   If you are using PyTorch with an NVIDIA GPU, it's crucial to ensure you have the correct version of PyTorch installed. Before running the requirements installation, you should install the specific version of PyTorch compatible with your CUDA version:
+   If you are using PyTorch with an NVIDIA GPU, it's crucial to ensure you have the correct version of PyTorch installed. Before running the requirements installation, you should install the specific version of PyTorch compatible with your CUDA version (cuda 12.1 in the example below):
 
    ```bash
    pip install torch==2.3.1 --index-url https://download.pytorch.org/whl/cu121
