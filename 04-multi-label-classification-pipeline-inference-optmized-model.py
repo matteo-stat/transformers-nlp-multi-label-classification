@@ -1,5 +1,5 @@
 from transformers import AutoTokenizer
-from optimum.onnxruntime import ORTModelForSequenceClassification, ORTModelForTokenClassification
+from optimum.onnxruntime import ORTModelForSequenceClassification
 from optimum.pipelines import pipeline
 import json
 
