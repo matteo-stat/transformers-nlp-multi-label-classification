@@ -1,7 +1,11 @@
 
 # transformers-nlp-multi-label-classification
 
-Welcome to the **transformers-nlp-multi-label-classification** repository! 🎉 This repo is all about fine-tuning HuggingFace Transformers for multi-label classification, setting up pipelines, and optimizing models for faster inference. It comes from my experience developing a custom chatbot with intent detection, where multiple topics can be true simultaneously. I hope these scripts help you fine-tune and deploy your models with ease!
+Welcome to the **transformers-nlp-multi-label-classification** repository! 🎉
+
+This repo is all about fine-tuning HuggingFace Transformers for multi-label classification, setting up pipelines, and optimizing models for faster inference. It comes from my experience developing a custom chatbot with intent detection, where multiple topics can be true simultaneously.
+
+I hope these scripts help you fine-tune and deploy your models with ease!
 
 ## 🛠️ Repository Structure
 
