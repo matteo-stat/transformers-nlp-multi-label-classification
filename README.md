@@ -38,7 +38,7 @@ Here's what each script in the repo does:
 
 Before you dive into the scripts, here are a few important notes about the dependencies and installation process:
 
-**Dependency Files**
+### Dependency Files
 
    - **`requirements-with-inference-optimization.txt`**  
      Includes dependencies for scripts `01-multi-label-classification-train.py` and `02-multi-label-classification-pipeline.py` (excludes ONNX Runtime dependencies).
@@ -46,7 +46,7 @@ Before you dive into the scripts, here are a few important notes about the depen
    - **`requirements-without-inference-optimization.txt`**  
      Includes dependencies for all scripts, including ONNX Runtime dependencies for optimization and inference.
 
-**Note for PyTorch and NVIDIA GPUs**
+### Note for PyTorch and NVIDIA GPUs
 
    If you are using PyTorch with an NVIDIA GPU, it's crucial to ensure you have the correct version of PyTorch installed. Before running the requirements installation, you should install the specific version of PyTorch compatible with your CUDA version:
 
